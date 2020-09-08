@@ -4,8 +4,8 @@ For FGA to work, FGO should be centered on your phone's screen excluding notch (
 
 This is what your phone should look like:
 
-1. If it's 16:9, there's not much problem.
-   <img src="img/inside.jpg" width="300">
+1. If it's 16:9, there's not much problem.  
+   <img src="img/inside.jpg" width="500">
    ![16:9](img/inside.jpg)
 
 2. Not 16:9, no notch. FGO should be centered on screen. The borders around FGO should be blue in such cases.
