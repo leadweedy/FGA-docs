@@ -40,16 +40,15 @@ For example, this won't work:
 #### Xperia phones
 
 NA works fine but JP has this problem. I haven't found any Full-screen app setting on them yet, so right now there's no fix for this to my knowledge.  
-For example, Sony Xperia 10 (https://github.com/MathewSachin/Fate-Grand-Automata/issues/269):
+For example, Sony Xperia 10 [#269](https://github.com/MathewSachin/Fate-Grand-Automata/issues/269):
 
 <img src="img/xperia-jp.png" width="500">
 
 #### LG G6 (Android 7, 18:9)
-Both FGO and FGA should be made full-screen apps.  
-https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/654?u=mathewsachin
+Both FGO and FGA should be made full-screen apps [GP#654](https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/654).
 
 #### Asus ZenFone 5Z
-Both FGO and FGA should be made full-screen (https://github.com/MathewSachin/Fate-Grand-Automata/issues/260).  
+Both FGO and FGA should be made full-screen [#260](https://github.com/MathewSachin/Fate-Grand-Automata/issues/260).  
 It is kind of wierd since FGA should automatically be full-screen on Android 8+ phones.
 
 ### CASE 2: Your phone has a notch, but the blue borders of FGO extend over the notch
@@ -60,11 +59,11 @@ This was the case with Samsung phones before a OneUI update. You might have to d
 
 ### CASE 3: Your phone has borders around FGO even at the bottom of screen
 
-- LGv60 (https://github.com/MathewSachin/Fate-Grand-Automata/issues/250). The user had to turn OFF gestures to remove that black bar at the bottom of the screen.
+- LGv60 [#250](https://github.com/MathewSachin/Fate-Grand-Automata/issues/250). The user had to turn OFF gestures to remove that black bar at the bottom of the screen.
   
   <img src="img/lg-v60.png" width="500">
 
-- Google Pixel 4L (https://github.com/MathewSachin/Fate-Grand-Automata/issues/337). There are black strips on 3 sides of FGO, but the user didn't respond yet in this case so I don't know if they found a way to turn them OFF.
+- Google Pixel 4L [#337](https://github.com/MathewSachin/Fate-Grand-Automata/issues/337). There are black strips on 3 sides of FGO, but the user didn't respond yet in this case so I don't know if they found a way to turn them OFF.
 
   <img src="img/pixel-4l.png" width="500">
 
@@ -72,6 +71,6 @@ This was the case with Samsung phones before a OneUI update. You might have to d
 
 Notch detection is only possible on Android 9 and above. Either update your phone or find a way to disable notch in your phone's settings.
 
-I've only seen a single case (Sharp Aquos C10 SH-Z01) of this upto now and to my knowledge the user wasn't able to find a solution.
+I've only seen a single case (Sharp Aquos C10 SH-Z01) [GP#1061](https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/1061) of this upto now and to my knowledge the user wasn't able to find a solution.
 
 <img src="img/notch-8.jpg" width="500">
