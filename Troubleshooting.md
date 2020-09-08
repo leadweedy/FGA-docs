@@ -6,7 +6,7 @@ Is your phone/emulator Android 7 or newer? If not and you tried to install, I fe
 
 # Doesn't work at all on Emulator
 
-See [Running on Emulators](Emulators.md)
+See [Running on Emulators](Emulators)
 
 # Doesn't work at all on Phone
 
