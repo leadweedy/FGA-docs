@@ -4,6 +4,14 @@ Is your phone/emulator Android 7 or newer? If not and you tried to install, I fe
 
 # Where should I place the PLAY button?
 
+If you have a non-16:9 phone, it is best to place the PLAY button outside FGO on the blue borders.
+
+![outside](img/outside.png)
+
+If your phone is 16:9, the default placement at bottom-left corner is ideal. While you can drag the button around to other places, there is possibility of screwing things up if it comes in the way of image matching.
+
+![inside](img/inside.png)
+
 # Doesn't work at all on Emulator
 
 See [Running on Emulators](Emulators)
