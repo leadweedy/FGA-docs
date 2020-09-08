@@ -14,9 +14,11 @@ If your phone is 16:9, the default placement at bottom-left corner is ideal. Whi
 
 # Doesn't work at all on Emulator
 
-See [Running on Emulators](Emulators)
+See [Running on Emulators](Running-on-Emulators)
 
 # Doesn't work at all on Phone
+
+See [Game Area detection](Game-Area-detection)
 
 # Worked before, doesn't work now
 
