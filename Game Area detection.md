@@ -65,7 +65,7 @@ This was the case with Samsung phones before a OneUI update. You might have to d
 
 - Google Pixel 4L [#337](https://github.com/MathewSachin/Fate-Grand-Automata/issues/337). There are black strips on 3 sides of FGO, but the user didn't respond yet in this case so I don't know if they found a way to turn them OFF.
 
-  <img src="img/pixel-4l.png" width="500">
+  <img src="img/pixel-4L.png" width="500">
 
 ### CASE 4: Your phone is Android 8 and has a notch
 
