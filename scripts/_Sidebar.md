@@ -1,4 +1,4 @@
-[Home](/Home) > Scripts
+[Home](Home) > Scripts
 
 - [Battle](Battle)
 - [FP Summon](Friend-Point-Summon)
