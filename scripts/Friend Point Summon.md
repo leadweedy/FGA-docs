@@ -6,11 +6,11 @@ That feature is a safe-guard against using the script for SQ summon. You could t
 
 After daily summon:
 
-<img src="img/fp-new.jpg" width="500">
+<img src="img/fp.jpg" width="500">
 
 JP/NA/CN have the option to continue summon from summon results screen:
 
-<img src="img/fp.jpg" width="500">
+<img src="img/fp-new.jpg" width="500">
 
 KR/TW have to go to the summon screen and click on 10x summon again:
 
