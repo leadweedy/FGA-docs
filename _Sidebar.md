@@ -1,3 +1,3 @@
 - [Home](Home)
 - [Troubleshooting](Troubleshooting)
-- [Scripts](Scripts)
+- [Scripts](Scripts/Battle)
