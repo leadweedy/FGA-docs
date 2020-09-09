@@ -1,1 +1,1 @@
-[Privacy Policy](Privacy-Policy)
+[Privacy Policy](Privacy-Policy) - [License](https://github.com/MathewSachin/Fate-Grand-Automata/blob/master/LICENSE) - [Donations](Donations)
