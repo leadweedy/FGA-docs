@@ -67,7 +67,7 @@ This was the case with Samsung phones before a OneUI update. You might have to d
 
   <img src="img/pixel-4L.png" width="500">
 
-### CASE 4: Your phone is Android 8 and has a notch
+### CASE 4: Your phone is Android 7 or 8 and has a notch
 
 Notch detection is only possible on Android 9 and above. Either update your phone or find a way to disable notch in your phone's settings.
 
