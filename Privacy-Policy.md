@@ -5,4 +5,4 @@ What you do on your phone stays only on your phone or with the cloud backup prov
 
 You can even turn OFF internet access for the app from Android app settings and it will still work fine.
 
-For the crash reports on Google Play, we only get the Device model and the place in the code the error occured and no other personal information that could be used to track you.
+For the crash reports on Google Play, we only get the Device model and the place in the code the error occurred and no other personal information that could be used to track you.
