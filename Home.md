@@ -11,5 +11,5 @@ We don't plan on supporting things that could possibly lead to the creation of b
 
 We won't provide support for:
 1. Re-rolling scripts
-2. Automatic logging in at the reset times
+2. Automatically logging in at the reset times
 3. Doing the story for you
