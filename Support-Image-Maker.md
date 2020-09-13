@@ -1,3 +1,8 @@
+## Default Images
+The app comes with images of a few common Support servants and CEs like Waver, Castoria, Lunchtime, etc.
+They should extract automatically when you create your first AutoSkill config.
+But, in-case they don't, you can extract them from the dropdown menu when creating/editing an AutoSkill config.
+
 ## Where to put Servant/CE images?
 Under `Fate-Grand-Automata/support/` folder, put:
 - Servant images in `servant` folder
