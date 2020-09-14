@@ -1,4 +1,4 @@
-First things first, before reporting any issues, try resetting the to defaults. 
+First things first, before reporting any issues, try resetting these to defaults. 
 The defaults should be good enough. Don't be too dumb when setting the values and complain to me that things don't work. Ideal values will vary between phones and potatoes.
 
 ### Wait after clicking (ms)
