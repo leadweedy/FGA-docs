@@ -22,7 +22,8 @@ Multiple cases may apply to your phone.
 
 ### CASE 1: Borders around FGO are black
 
-If FGO is centered on screen, even if the borders are black, then there is no problem. Otherwise, you'll have to make FGO a full-screen app.
+If FGO is centred on the screen, even if the borders are black, then there is no problem. Otherwise, you'll have to make FGO a full-screen app.  
+If that doesn't work, check if you can make FGA full-screen too.
 
 For example, this won't work:  
 <img src="img/samsung-black.jpg" width="500">
@@ -30,12 +31,12 @@ For example, this won't work:
 #### Samsung phones
 - Open `Settings` app.
 - Search for and select `Full screen apps`.
-- Turn ON the switch for FGO.
+- Turn ON the switch for FGO (and if possible FGA too).
 
 #### Huawei phones
 - Open `Settings` app.
 - Go to `Display & brightness > More display settings > Full-Screen Display`.
-- Turn ON the switch for FGO.
+- Turn ON the switch for FGO (and if possible FGA too).
 
 #### Xperia phones
 
@@ -43,13 +44,6 @@ NA works fine but JP has this problem. I haven't found any Full-screen app setti
 For example, Sony Xperia 10 [#269](https://github.com/MathewSachin/Fate-Grand-Automata/issues/269):
 
 <img src="img/xperia-jp.png" width="500">
-
-#### LG G6 (Android 7, 18:9)
-Both FGO and FGA should be made full-screen apps [GP#654](https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/654).
-
-#### Asus ZenFone 5Z
-Both FGO and FGA should be made full-screen [#260](https://github.com/MathewSachin/Fate-Grand-Automata/issues/260).  
-It is kind of wierd since FGA should automatically be full-screen on Android 8+ phones.
 
 ### CASE 2: Your phone has a notch, but the blue borders of FGO extend over the notch
 
