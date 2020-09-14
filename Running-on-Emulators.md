@@ -3,7 +3,7 @@ Make sure you're using Android 7 version of these emulators
 
 ### Nox
 
-On Nox, FGA needs Root to work.
+On Nox, FGA needs Root to work since MediaProjection doesn't seem to work.
 
 - Make sure you're using an **Android 7** instance of Nox.
   Use [MultiDrive](https://www.bignox.com/blog/how-to-run-multiple-android-instances-with-nox-app-player/) for managing/creating Nox instances.
