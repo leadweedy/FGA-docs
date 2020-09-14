@@ -8,7 +8,7 @@ Thank you for your support.
 |                          |              |
 |--------------------------|--------------|
 | Vítor Martins Salustiano | R$ 50.00 BRL |
-| Fred Hong	           | $ 10.00 USD  |
+| Fred Hong	           | $ 30.00 USD  |
 | Ji Hoon Kim              | $ 10.00 USD  |
 | Nathan Farrar            | $ 5.00 USD   |
 | Federico Rapetti         | € 3.00 EUR   |
