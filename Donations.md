@@ -5,15 +5,16 @@ Disclaimer: This is my (@MathewSachin's) personal link, the amount won’t go to
 Your donations will be used to buy rainbow apples for testing features/bugs.  
 Thank you for your support.
 
-|                          |              |
-|--------------------------|--------------|
-| Vítor Martins Salustiano | R$ 50.00 BRL |
-| Fred Hong	           | $ 30.00 USD  |
-| Ji Hoon Kim              | $ 10.00 USD  |
-| Nathan Farrar            | $ 5.00 USD   |
-| Federico Rapetti         | € 3.00 EUR   |
-| William Lu               | $ 20.00 USD  |
-| @sleeping-player         | $ 100.00 USD |
-| Riya                     | $ 10.00 USD  |
-| Roman Furman             | $ 5.00 USD   |
-| Georges FANG             | $ 10.00 USD  |
+|                                 |              |
+|---------------------------------|--------------|
+| Vítor Martins Salustiano        | R$ 50.00 BRL |
+| Fred Hong	                  | $ 30.00 USD  |
+| Ji Hoon Kim                     | $ 10.00 USD  |
+| Nathan Farrar                   | $ 5.00 USD   |
+| Federico Rapetti                | € 3.00 EUR   |
+| William Lu                      | $ 20.00 USD  |
+| @sleeping-player                | $ 100.00 USD |
+| Riya                            | $ 10.00 USD  |
+| Roman Furman                    | $ 5.00 USD   |
+| Georges FANG                    | $ 10.00 USD  |
+| Bastian Ignacio Ferrada Sanchez | $ 20.00 USD  |
