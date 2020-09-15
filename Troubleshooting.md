@@ -7,6 +7,7 @@ Is your phone/emulator Android 7 or newer? If not and you tried to install, I fe
 See [Running on Emulators](Running-on-Emulators)
 
 # Doesn't work at all on Phone
+> # THIS IS THE ROOT OF ALL YOUR PROBLEMS
 
 See [Game Area detection](Game-Area-detection)
 
