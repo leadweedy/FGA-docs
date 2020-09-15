@@ -18,3 +18,4 @@ Thank you for your support.
 | Roman Furman                    | $ 5.00 USD   |
 | Georges FANG                    | $ 10.00 USD  |
 | Rysu                            | $ 25.00 USD  |
+| Комарницкий Сергей Борисович    | $ 5.00 USD.  |
