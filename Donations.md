@@ -16,3 +16,4 @@ Thank you for your support.
 | @sleeping-player         | $ 100.00 USD |
 | Riya                     | $ 10.00 USD  |
 | Roman Furman             | $ 5.00 USD   |
+| Georges FANG             | $ 10.00 USD  |
