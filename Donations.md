@@ -17,4 +17,4 @@ Thank you for your support.
 | Riya                            | $ 10.00 USD  |
 | Roman Furman                    | $ 5.00 USD   |
 | Georges FANG                    | $ 10.00 USD  |
-| Bastian Ignacio Ferrada Sanchez | $ 20.00 USD  |
+| Rysu                            | $ 25.00 USD  |
