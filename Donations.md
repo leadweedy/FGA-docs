@@ -18,5 +18,6 @@ Thank you for your support.
 | Roman Furman                    | $ 5.00 USD   |
 | Georges FANG                    | $ 10.00 USD  |
 | Rysu                            | $ 25.00 USD  |
-| Golemming    | $ 5.00 USD.  |
-| Oscar Ezeigbk  | $ 10.00 CAD |
+| Golemming                       | $ 5.00 USD   |
+| Oscar Ezeigbk                   | $ 10.00 CAD  |
+| 1993                            | $ 10.00 USD  |
