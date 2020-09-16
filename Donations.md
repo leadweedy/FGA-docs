@@ -19,3 +19,4 @@ Thank you for your support.
 | Georges FANG                    | $ 10.00 USD  |
 | Rysu                            | $ 25.00 USD  |
 | Golemming    | $ 5.00 USD.  |
+| Oscar Ezeigbk  | $ 10.00 CAD |
