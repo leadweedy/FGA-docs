@@ -3,3 +3,4 @@
 - [Emulators](Running-on-Emulators)
 - [Scripts](Battle)
 - [Fine tune](Fine-tune)
+- [Donations](Donations)
