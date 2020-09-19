@@ -21,4 +21,4 @@ Thank you for your support.
 | Golemming                       | $ 5.00 USD   |
 | Oscar Ezeigbk                   | $ 10.00 CAD  |
 | 1993                            | $ 10.00 USD  |
-| Jonah Morado                    | $ 10.00 USD  |
+| ---                             | $ 10.00 USD  |
