@@ -7,7 +7,7 @@ WIKI IS UNDER CONSTRUCTION
 #### Things we're absolutely against
 
 This app is only meant to automate repetitive farming battles.  
-We don't plan on supporting things that could possibly lead to the creation of bot accounts which need no supervision from users.
+We don't plan on supporting things that could possibly lead to the creation of bot accounts which need no supervision from users OR things that will be blatant violation of FGO's ToS.
 
 We won't provide support for:
 1. Re-rolling scripts
@@ -15,3 +15,6 @@ We won't provide support for:
 3. Doing the story for you
 4. Modded game APKs
 5. Restarting the script again when AP replenishes
+6. Messing with the game data or network connections
+7. Playing with screen turned OFF or FGO not in foreground
+8. Playing offline (someone did DM me for this if you're wondering)
