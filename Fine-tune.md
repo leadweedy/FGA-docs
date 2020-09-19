@@ -12,7 +12,7 @@ Delay between individual taps/clicks when doing so repeatedly like at the end of
 
 ### Wait after swiping (ms)
 Wait after all swipes.
-Right now, it is only used when searching for friend supports, but will also be used for cases where any other swipes get added in future. Some time is needed for the game's animations to finish.
+Right now, it is only used when searching for friend supports and in Gift Box script, but will also be used for cases where any other swipes get added in future. Some time is needed for the game's animations to finish.
 
 ### Swipe duration (ms)
 Time taken to swipe. Swiping faster will scroll more, slower will scroll less.
