@@ -1,6 +1,6 @@
 Welcome to the Fate-Grand-Automata wiki!
 
-UNDER CONSTRUCTION
+WIKI IS UNDER CONSTRUCTION
 
 <a href='https://play.google.com/store/apps/details?id=com.mathewsachin.fategrandautomata&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="175" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
@@ -13,3 +13,5 @@ We won't provide support for:
 1. Re-rolling scripts
 2. Automatically logging in at the reset times
 3. Doing the story for you
+4. Modded game APKs
+5. Restarting the script again when AP replenishes
