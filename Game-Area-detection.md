@@ -16,13 +16,17 @@ This is what your phone should look like:
 
    <img src="img/outside.jpg" width="500">
 
+If your phone has a notch and FGO looks like in (2), turn ON Ignore Notch calculation.
+
 ## FGO looks different on my phone
 
 Multiple cases may apply to your phone.
 
 ### CASE 1: Borders around FGO are black
 
-If FGO is centred on the screen, even if the borders are black, then there is no problem. Otherwise, you'll have to make FGO a full-screen app.  
+If FGO is centred on the screen, even if the borders are black, then it might work as it is. If this is case and your phone has a notch, turn ON 'Ignore Notch calculation'.
+
+Otherwise, you'll have to make FGO a full-screen app.  
 If that doesn't work, check if you can make FGA full-screen too.
 
 For example, this won't work:  
