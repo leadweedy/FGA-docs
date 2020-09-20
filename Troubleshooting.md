@@ -2,6 +2,12 @@
 
 Is your phone/emulator Android 7 or newer? If not and you tried to install, I feel sorry for you :cry:
 
+# Can't start scripts (Mostly LG phones)
+
+Turn OFF Game Tools since it has the feature to prevent ALERTS from showing up.  
+This prevents the dialog which lets you pick AutoSkill config from showing up.  
+https://www.lg.com/us/support/help-library/lg-g7-thinq-gaming-tools-CT10000027-20150726480680
+
 # Doesn't work at all on Emulator
 
 See [Running on Emulators](Running-on-Emulators)
