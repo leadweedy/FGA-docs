@@ -22,3 +22,4 @@ Thank you for your support.
 | Oscar Ezeigbk                   | $ 10.00 CAD  |
 | 1993                            | $ 10.00 USD  |
 | ---                             | $ 10.00 USD  |
+| Miles Chan                      | $ 5.00 USD   |
