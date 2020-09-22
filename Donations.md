@@ -4,6 +4,7 @@ Disclaimer: This is my (@MathewSachin's) personal link, the amount won’t go to
 
 Your donations will be used to buy rainbow apples for testing features/bugs.  
 Thank you for your support.
+Also, someone donated Discord Nitro for a month, so thanks for that too!
 
 |                                 |              |
 |---------------------------------|--------------|
