@@ -26,4 +26,4 @@ Also, someone donated Discord Nitro for a month, so thanks for that too!
 | Miles Chan                      | $ 5.00 USD   |
 | Matthew Uy                      | $ 5.00 USD   |
 | Viet Hong Vu                    | $ 5.00 USD   |
-| Zane Garthee                    | $ 10.00 USD  |
+| Zane                            | $ 10.00 USD  |
