@@ -27,7 +27,7 @@ Multiple cases may apply to your phone.
 If FGO is centred on the screen, even if the borders are black, then it might work as it is. If this is case and your phone has a notch, turn ON 'Ignore Notch calculation'.
 
 Otherwise, you'll have to make FGO a full-screen app.  
-If that doesn't work, check if you can make FGA full-screen too.
+Only if that doesn't work, check if you can make FGA full-screen too.
 
 For example, this won't work:  
 <img src="img/samsung-black.jpg" width="500">
@@ -35,12 +35,12 @@ For example, this won't work:
 #### Samsung phones
 - Open `Settings` app.
 - Search for and select `Full screen apps`.
-- Turn ON the switch for FGO (and if possible FGA too).
+- Turn ON the switch for FGO.
 
 #### Huawei phones
 - Open `Settings` app.
 - Go to `Display & brightness > More display settings > Full-Screen Display`.
-- Turn ON the switch for FGO (and if possible FGA too).
+- Turn ON the switch for FGO.
 
 #### Xperia phones
 
