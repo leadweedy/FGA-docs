@@ -28,3 +28,4 @@ Also, someone donated Discord Nitro for a month, so thanks for that too!
 | Viet Hong Vu                    | $ 5.00 USD   |
 | Zane                            | $ 10.00 USD  |
 | Brian R                         | $ 10.00 USD  |
+| Zhenjue Huang                   | $ 10.00 USD  |
