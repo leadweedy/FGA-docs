@@ -69,6 +69,12 @@ This was the case with Samsung phones before a OneUI update. You might have to d
 
 Notch detection is only possible on Android 9 and above. Either update your phone or find a way to disable notch in your phone's settings.
 
-I've only seen a single case (Sharp Aquos C10 SH-Z01) [GP#1061](https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/1061) of this upto now and to my knowledge the user wasn't able to find a solution.
+I don't have any solutions here. If you're a programmer you can fork the code and tweak the regions I guess.
+
+These are some phones that fall into this category:
+- Sharp Aquos C10 (SH-Z01) [GP#1061](https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/1061)
+- Huawei Y7 [#482](https://github.com/MathewSachin/Fate-Grand-Automata/issues/482)
+- LG G7 [#455](https://github.com/MathewSachin/Fate-Grand-Automata/issues/455) **JUST UPDATE YOUR ANDROID VERSION**
+- Oukitel u18 [#373](https://github.com/MathewSachin/Fate-Grand-Automata/issues/373)
 
 <img src="img/notch-8.jpg" width="500">
