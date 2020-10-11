@@ -30,3 +30,4 @@ Also, someone donated Discord Nitro for a month, so thanks for that too!
 | Brian R                         | $ 10.00 USD  |
 | Zhenjue Huang                   | $ 10.00 USD  |
 | Jelsin Dolores Perez            | $ 5.00 USD   |
+| Peng Xia                        | $ 6.00 USD   |
