@@ -1,3 +1,7 @@
+# JP?
+After the UI update on JP, FGA doesn't work properly for JP on non-16:9 devices.  
+You may try 16:9 phones/emulators but proper functionality isn't guaranteed ([#571](https://github.com/MathewSachin/Fate-Grand-Automata/issues/571)).
+
 # Can't install
 
 Is your phone/emulator Android 7 or newer? If not and you tried to install, I feel sorry for you :cry:
