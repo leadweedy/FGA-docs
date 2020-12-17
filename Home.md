@@ -14,7 +14,6 @@ We won't provide support for:
 2. Automatically logging in at the reset times
 3. Doing the story for you
 4. Modded game APKs
-5. Restarting the script again when AP replenishes
-6. Messing with the game data or network connections
-7. Playing with screen turned OFF or FGO not in foreground
-8. Playing offline (someone did DM me for this if you're wondering)
+5. Messing with the game data or network connections
+6. Playing with screen turned OFF or FGO not in foreground
+7. Playing offline (someone did DM me for this if you're wondering)
