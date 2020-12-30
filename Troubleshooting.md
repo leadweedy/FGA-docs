@@ -8,16 +8,16 @@ The canary version kind of works right now. I have checked on multiple phones bu
 ## Why does it show an error when installing?
 Your phone/emulator should be Android 7 or later to use the app.
 
-## Can't find 'Script Mode' option
+## Can't find 'Script Mode' option?
 There should be a new script displayed on top in the list of scripts when you start. This one would automatically decide which script out of Lottery/FP/Gift Box/Support Image Maker to run.
 
-## Can't start scripts (Mostly LG phones)
+## Can't start scripts (Mostly LG phones)?
 
 Turn OFF Game Tools since it has the feature to prevent ALERTS from showing up.  
 This prevents the dialog which lets you pick AutoSkill config from showing up.  
 https://www.lg.com/us/support/help-library/lg-g7-thinq-gaming-tools-CT10000027-20150726480680
 
-## Having trouble on Emulators
+## Having trouble on Emulators?
 
 See [Running on Emulators](Running-on-Emulators)
 
