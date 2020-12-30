@@ -65,6 +65,7 @@ If you have a non-16:9 phone, it is best to place the PLAY button outside FGO on
 
 <img src="img/outside.jpg" width="500">
 
-If your phone is 16:9, the default placement at bottom-left corner is ideal. While you can drag the button around to other places, there is possibility of screwing things up if it comes in the way of image matching.
+If your phone is 16:9, the default placement at bottom-left corner is ideal. While you can drag the button around to other places, there is possibility of screwing things up if it comes in the way of image matching.  
+**NOTE:** There is a know issue for 16:9 devices: Script can press stop button on support select screen [#578](https://github.com/Fate-Grand-Automata/FGA/issues/578).
 
 <img src="img/inside.jpg" width="500">
