@@ -32,3 +32,4 @@ Also, someone donated Discord Nitro for a month, so thanks for that too!
 | Jelsin                          | $ 5.00 USD   |
 | Peng Xia                        | $ 6.00 USD   |
 | Hermann Probst                  | $ 10.00 USD  |
+| 赫 王                           | $ 1.00 USD   |
