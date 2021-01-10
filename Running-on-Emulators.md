@@ -1,7 +1,6 @@
-## Supported Emulators
 Make sure you're using Android 7 version of these emulators
 
-### Nox
+## Nox
 
 On Nox, FGA needs Root to work since MediaProjection doesn't seem to work.
 
@@ -10,14 +9,11 @@ On Nox, FGA needs Root to work since MediaProjection doesn't seem to work.
 - Go to `More options` in the app and turn ON `Use Root for Screenshots`.
 - You also need to enable `Root` from Nox's settings. See [How to root Nox](https://www.bignox.com/blog/how-to-root-nox-app-player/).
 
-### Bluestacks
+## Bluestacks
 
 On Bluestacks you can use FGA without Root.
 
-#### Mac
-If you're on a Mac, Bluestacks should be able to run FGA as it is.
-
-#### Windows
+#### Bluestacks on Windows needs extra steps
 Change to Compatibility Graphics Engine:
 
 - Open Bluestack's settings
