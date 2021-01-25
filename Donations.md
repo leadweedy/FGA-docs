@@ -34,3 +34,4 @@ Thank you for your support.
 | Peng Xia                        | $ 6.00 USD   |
 | Hermann Probst                  | $ 10.00 USD  |
 | 赫 王                           | $ 1.00 USD   |
+| SHENKAI                         | $1.11 USD    |
