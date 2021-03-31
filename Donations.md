@@ -1,5 +1,6 @@
-> Thank you to everyone who donated so far. ~~Due to JP changing UI for wide-screens, the app doesn't work right now on many devices. Same will eventually happen to other servers. So, I don't think it is right to accept donations until this is fixed.~~
-While the app should be working on most devices now for JP, it's not very well tested yet, so I'm still keeping donations on hold.
+> Canary builds work on most devices for JP unless they render FGO differently.
+
+PayPal: https://paypal.me/MathewSachin
 
 Disclaimer: This is my (@MathewSachin's) personal link, the amount won’t go to other developers if you donate there. Since this project is a fork of FGO-lua, there is a lot of work involved from the developers there. Only donate for what you feel I have added over the FGO-lua project.
 
@@ -34,4 +35,11 @@ Thank you for your support.
 | Peng Xia                        | $ 6.00 USD   |
 | Hermann Probst                  | $ 10.00 USD  |
 | 赫 王                           | $ 1.00 USD   |
-| SHENKAI                         | $1.11 USD    |
+| SHENKAI                         | $ 1.11 USD   |
+| 严​明                             | $ 10.00 USD |
+| Jürgen Blume                    | € 55.55 EUR  |
+| Ibrahim Jadoon                  | $ 15.00 USD |
+| Thomas Michalak                 | € 10.00 EUR (for Captura)  |
+| Milan Sinzig                    | € 5.00 EUR (for Captura) |
+
+Some of these donations might have been intended towards my other project which is no longer maintained.
