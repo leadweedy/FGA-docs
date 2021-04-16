@@ -9,7 +9,7 @@ Thank you for your support.
 
 |                                 |              |
 |---------------------------------|--------------|
-| Vítor Martins Salustiano        | R$ 50.00 BRL |
+| Vítor Martins Salustiano        | R$ 100.00 BRL |
 | Fred Hong	                  | $ 40.00 USD  |
 | Ji Hoon Kim                     | $ 10.00 USD  |
 | Nathan Farrar                   | $ 5.00 USD   |
