@@ -41,5 +41,6 @@ Thank you for your support.
 | Ibrahim Jadoon                  | $ 15.00 USD |
 | Thomas Michalak                 | € 10.00 EUR (for Captura)  |
 | Milan Sinzig                    | € 5.00 EUR (for Captura) |
+| Meemoo .                        | $ 10.00 USD |
 
 Some of these donations might have been intended towards my other project which is no longer maintained.
