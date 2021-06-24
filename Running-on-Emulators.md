@@ -15,6 +15,8 @@ On Nox, FGA needs Root to work since MediaProjection doesn't seem to work.
 
 On Bluestacks you can use FGA without Root.
 
+> Blustacks 64-bit instance doesn't work with FGA. You'll have to use a 32-bit instance.
+
 #### Bluestacks on Windows needs extra steps
 Change to Compatibility Graphics Engine:
 
