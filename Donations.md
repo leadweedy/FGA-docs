@@ -42,5 +42,7 @@ Thank you for your support.
 | Thomas Michalak                 | € 10.00 EUR (for Captura)  |
 | Milan Sinzig                    | € 5.00 EUR (for Captura) |
 | Meemoo .                        | $ 10.00 USD |
+| Frederic Baudoin                | $ 5.00 USD  |
+| Michael Allen                   | $ 20.00 AUD |
 
 Some of these donations might have been intended towards my other project which is no longer maintained.
