@@ -1,21 +1,14 @@
 ## Why can't I find it on PlayStore?
-The app was unlisted until proper JP support. See [#616](https://github.com/Fate-Grand-Automata/FGA/issues/616).
-Links to canary builds in that issue.
-
-## What is the state of JP support?
-The canary version kind of works right now. I have checked on multiple phones but still not to the point I would advertise that it would work for everyone.
+~~The app was unlisted until proper JP support.~~ See [#616](https://github.com/Fate-Grand-Automata/FGA/issues/616).  
+It won't be made available on PlayStore again. You can download it from the link on the README page.
 
 ## Why does it show an error when installing?
-Your phone/emulator should be Android 7 or later to use the app.
+Your phone/emulator should be Android 7 or later to use the app.  
+The latest version of Nox doesn't work.
 
 ## Can't find 'Script Mode' option?
-There should be a new script displayed on top in the list of scripts when you start. This one would automatically decide which script out of Lottery/FP/Gift Box/Support Image Maker to run.
-
-## Can't start scripts (Mostly LG phones)?
-
-Turn OFF Game Tools since it has the feature to prevent ALERTS from showing up.  
-This prevents the dialog which lets you pick AutoSkill config from showing up.  
-https://www.lg.com/us/support/help-library/lg-g7-thinq-gaming-tools-CT10000027-20150726480680
+The app automatically detects which script can be run on the current screen.  
+It will show the relevant option when you click on the PLAY button.
 
 ## Having trouble on Emulators?
 
@@ -25,6 +18,12 @@ See [Running on Emulators](Running-on-Emulators)
 
 If you're having trouble, this is mostly related.
 See [Game Area detection](Game-Area-detection)
+
+## Can't start scripts (Mostly LG phones)?
+
+Turn OFF Game Tools since it has the feature to prevent ALERTS from showing up.  
+This prevents the dialog which lets you pick AutoSkill config from showing up.  
+https://www.lg.com/us/support/help-library/lg-g7-thinq-gaming-tools-CT10000027-20150726480680
 
 ## Worked before, doesn't work now
 
