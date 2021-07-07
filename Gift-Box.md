@@ -1,0 +1,1 @@
+Gift Box script is just for receiving all Silver and some Gold embers from your present Box.
