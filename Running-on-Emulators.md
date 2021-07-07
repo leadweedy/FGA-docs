@@ -1,4 +1,4 @@
-> # FGA doesn't seem to work on latest versions on Nox and Bluestacks
+> # FGA doesn't seem to work on latest version of Nox
 
 Make sure you're using Android 7 version of these emulators
 
