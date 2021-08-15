@@ -1,12 +1,12 @@
-## Why can't I find it on PlayStore?
-~~The app was unlisted until proper JP support.~~ See [#616](https://github.com/Fate-Grand-Automata/FGA/issues/616).  
-It won't be made available on PlayStore again. You can download it from the link on the README page.
+## PlayStore?
+No more ([#616](https://github.com/Fate-Grand-Automata/FGA/issues/616)).
+Download it from the link in `README`
 
-## Why does it show an error when installing?
-Your phone/emulator should be Android 7 or later to use the app.  
+## Error on install?
+Android 7 or above needed.  
 The latest version of Nox doesn't work.
 
-## Can't find 'Script Mode' option?
+## Where's 'Script Mode'?
 The app automatically detects which script can be run on the current screen.  
 It will show the relevant option when you click on the PLAY button.
 
@@ -39,8 +39,8 @@ See [#314](https://github.com/Fate-Grand-Automata/FGA/issues/314)
 
 ## Uses skills on the wrong servant or doesn't use skills at all
 
-Do you have skill confirmation ON in FGO?
-If so, either turn that OFF or turn ON `More options/Skill confirmation in FGA.
+Do you have skill confirmation ON in FGO?  
+If so, either turn that OFF or turn ON `More options/Skill confirmation` in FGA.
 
 ## Not picking NP/cards on Attack screen OR Got stuck in some info screen
 
@@ -54,15 +54,8 @@ Is it just your phone lagging badly? If so, either get a new phone or try increa
 2. Is there some overlay on your phone/emulator screen that can screw up image matching?  
    For example:
    
-   <img src="img/overlay.jpg" width="500">
+   <img src="img/overlay.jpg" width="300">
 
 ## Where should I place the PLAY button?
 
-If you have a non-16:9 phone, it is best to place the PLAY button outside FGO on the blue borders (until the wide-screen update).  
-Bottom-left corner is ideal after the wide screen update.
-
-<img src="img/outside.jpg" width="500">
-
-If your phone is 16:9, the default placement at the bottom-left corner is ideal. While you can drag the button around to other places, there is a possibility of screwing things up if it comes in the way of image matching.  
-
-<img src="img/inside.jpg" width="500">
+Bottom-left corner is ideal. While you can drag the button around to other places, there is a possibility of screwing things up if it comes in the way of image matching.
