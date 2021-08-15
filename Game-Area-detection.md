@@ -46,13 +46,6 @@ For example, this won't work:
 - Go to `Display & brightness > More display settings > Full-Screen Display`.
 - Turn ON the switch for FGO.
 
-#### Xperia phones
-
-NA works fine but JP has this problem. I haven't found any Full-screen app setting on them yet, so right now there's no fix for this to my knowledge.  
-For example, Sony Xperia 10 [#269](https://github.com/MathewSachin/Fate-Grand-Automata/issues/269):
-
-<img src="img/xperia-jp.png" width="500">
-
 ### CASE 2: Your phone has a notch, but the blue borders of FGO extend over the notch
 
 Turn ON `Ignore Notch calculation` in `More options`.
