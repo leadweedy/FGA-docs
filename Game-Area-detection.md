@@ -18,11 +18,9 @@ FGO should fill the entire screen      | FGO should be centered on screen with b
 ## When to use Ignore notch calculation?
 If your phone has a notch, but the notch area is also filled by blue borders, turn ON `Ignore Notch calculation`.
 
-**NOTE:** `Ignore notch calculation` is ignored on servers with the wide-screen update (JP/KR).
+**NOTE:** `Ignore notch calculation` is NOT needed on servers with the wide-screen update (JP/KR).
 
 ## FGO looks different on my phone
-
-Multiple cases may apply to your phone.
 
 ### CASE 1: Borders around FGO are black
 
@@ -32,25 +30,32 @@ Otherwise, you'll have to make FGO a full-screen app.
 Only if that doesn't work, check if you can make FGA full-screen too.
 
 For example, this won't work:  
-<img src="img/samsung-black.jpg" width="500">
+<img src="img/samsung-black.jpg" width="300">
 
-#### Samsung phones
-- Open `Settings` app.
-- Search for and select `Full screen apps`.
-- Turn ON the switch for FGO.
+<table>
+  <tr>
+    <th>Samsung</th>
+    <th>Huawei</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Open <em>Settings</em> app</li>
+        <li>Search for and select <em>Full screen apps</em></li>
+        <li>Turn ON the switch for FGO</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Open <em>Settings</em> app</li>
+        <li>Go to <em>Display & brightness > More display settings > Full-Screen Display</em></li>
+        <li>Turn ON the switch for FGO</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### Huawei phones
-- Open `Settings` app.
-- Go to `Display & brightness > More display settings > Full-Screen Display`.
-- Turn ON the switch for FGO.
-
-### CASE 2: Your phone has a notch, but the blue borders of FGO extend over the notch
-
-Turn ON `Ignore Notch calculation` in `More options`.
-
-This was the case with Samsung phones before a OneUI update. You might have to do this if you're still on an older version of OneUI.
-
-### CASE 3: Your phone has borders around FGO even at the bottom of screen
+### CASE 2: Your phone has borders around FGO even at the bottom of screen
 
 LGv60                                  | Google Pixel 4L
 ---------------------------------------|-----------------------
@@ -62,16 +67,6 @@ To get rid of them:
 - Go to `Settings > System > Gestures > System Navigation`.
 - Change to `3-button navigation`.
 
-### CASE 4: Your phone is Android 7 or 8 and has a notch
+### CASE 3: Your phone is Android 7 or 8 and has a notch
 
 Notch detection is only possible on Android 9 and above. Either update your phone or find a way to disable notch in your phone's settings.
-
-I don't have any solutions here. If you're a programmer you can fork the code and tweak the regions I guess.
-
-These are some phones that fall into this category:
-- Sharp Aquos C10 (SH-Z01) [GP#1061](https://community.gamepress.gg/t/automatic-farming-app-fate-grand-automata/72155/1061)
-- Huawei Y7 [#482](https://github.com/MathewSachin/Fate-Grand-Automata/issues/482)
-- LG G7 [#455](https://github.com/MathewSachin/Fate-Grand-Automata/issues/455) **JUST UPDATE YOUR ANDROID VERSION**
-- Oukitel u18 [#373](https://github.com/MathewSachin/Fate-Grand-Automata/issues/373)
-
-<img src="img/notch-8.jpg" width="500">
