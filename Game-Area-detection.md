@@ -1,3 +1,7 @@
+## How FGO should look on JP/KR (wide-screen update)
+
+Should fill the entire screen including the notch. There should be no black bars on the screen.
+
 ## How FGO should look
 
 For FGA to work, FGO should be centered on your phone's screen excluding notch (hole on screen for front camera)
