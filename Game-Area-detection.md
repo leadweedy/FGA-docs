@@ -1,6 +1,8 @@
 ## How FGO should look on JP/KR (wide-screen update)
 
-Should fill the entire screen including the notch. There should be no black bars on the screen.
+Should fill the entire screen including the notch.
+
+There should be no black bars on the screen. If there are, switch your phone from Gesture Navigation to 3-button navigation.
 
 ## How FGO should look
 
@@ -8,19 +10,15 @@ For FGA to work, FGO should be centered on your phone's screen excluding notch (
 
 This is what your phone should look like:
 
-1. If it's 16:9, there's nothing to worry about.
+16:9                                   | Not 16:9, no notch                                                    | Not 16:9, has notch 
+---------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------
+FGO should fill the entire screen      | FGO should be centered on screen with blue borders (no black borders) | FGO should be centered in the area exluding notch with blue borders. Notch area should be black.
+<img src="img/inside.jpg" width="300"> | <img src="img/outside-notchless.jpg" width="300">                     | <img src="img/outside.jpg" width="300">
 
-   <img src="img/inside.jpg" width="500">
+## When to use Ignore notch calculation?
+If your phone has a notch, but the notch area is also filled by blue borders, turn ON `Ignore Notch calculation`.
 
-2. Not 16:9, no notch. FGO should be centered on screen. The borders around FGO should be blue in such cases.
-
-   <img src="img/outside-notchless.jpg" width="500">
-
-3. Not 16:9, but has a notch. FGO should be centered in the area exluding notch. The borders around FGO should be blue excluding the notch region which should be black.
-
-   <img src="img/outside.jpg" width="500">
-
-If your phone has a notch and FGO looks like in (2), turn ON Ignore Notch calculation.
+**NOTE:** `Ignore notch calculation` is ignored on servers with the wide-screen update (JP/KR).
 
 ## FGO looks different on my phone
 
@@ -54,13 +52,15 @@ This was the case with Samsung phones before a OneUI update. You might have to d
 
 ### CASE 3: Your phone has borders around FGO even at the bottom of screen
 
-- LGv60 [#250](https://github.com/MathewSachin/Fate-Grand-Automata/issues/250). The user had to turn OFF gestures to remove that black bar at the bottom of the screen.
-  
-  <img src="img/lg-v60.png" width="500">
+LGv60                                  | Google Pixel 4L
+---------------------------------------|-----------------------
+<img src="img/lg-v60.png" width="300"> | <img src="img/pixel-4L.png" width="300">
 
-- Google Pixel 4L [#337](https://github.com/MathewSachin/Fate-Grand-Automata/issues/337). There are black strips on 3 sides of FGO, but the user didn't respond yet in this case so I don't know if they found a way to turn them OFF.
+The black border are for gesture navigation.
 
-  <img src="img/pixel-4L.png" width="500">
+To get rid of them:
+- Go to `Settings > System > Gestures > System Navigation`.
+- Change to `3-button navigation`.
 
 ### CASE 4: Your phone is Android 7 or 8 and has a notch
 
