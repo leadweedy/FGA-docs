@@ -1,6 +1,6 @@
 ## PlayStore?
 No more ([#616](https://github.com/Fate-Grand-Automata/FGA/issues/616)).
-Download it from the link in `README`
+Download it from [here](https://github.com/Fate-Grand-Automata/FGA/releases)
 
 ## Error on install?
 Android 7 or above needed.  
