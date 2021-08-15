@@ -19,11 +19,15 @@ See [Running on Emulators](Running-on-Emulators)
 If you're having trouble, this is mostly related.
 See [Game Area detection](Game-Area-detection)
 
-## Can't start scripts (Mostly LG phones)?
+## Can't start scripts (Mostly LG/Samsung phones)?
 
+For LG:
 Turn OFF Game Tools since it has the feature to prevent ALERTS from showing up.  
 This prevents the dialog which lets you pick AutoSkill config from showing up.  
 https://www.lg.com/us/support/help-library/lg-g7-thinq-gaming-tools-CT10000027-20150726480680
+
+On other phones, if you have something like a Game Booster that blocks alerts from other apps when playing a game, turn it OFF.
+Instructions would vary depending on your device, so Google.
 
 ## Worked before, doesn't work now
 
@@ -54,11 +58,11 @@ Is it just your phone lagging badly? If so, either get a new phone or try increa
 
 ## Where should I place the PLAY button?
 
-If you have a non-16:9 phone, it is best to place the PLAY button outside FGO on the blue borders.
+If you have a non-16:9 phone, it is best to place the PLAY button outside FGO on the blue borders (until the wide-screen update).  
+Bottom-left corner is ideal after the wide screen update.
 
 <img src="img/outside.jpg" width="500">
 
 If your phone is 16:9, the default placement at the bottom-left corner is ideal. While you can drag the button around to other places, there is a possibility of screwing things up if it comes in the way of image matching.  
-**NOTE:** There is a known issue for 16:9 devices: Script can press the stop button on support select screen [#578](https://github.com/Fate-Grand-Automata/FGA/issues/578).
 
 <img src="img/inside.jpg" width="500">
