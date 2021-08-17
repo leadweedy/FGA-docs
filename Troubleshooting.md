@@ -59,3 +59,18 @@ Is it just your phone lagging badly? If so, either get a new phone or try increa
 ## Where should I place the PLAY button?
 
 Bottom-left corner is ideal. While you can drag the button around to other places, there is a possibility of screwing things up if it comes in the way of image matching.
+
+## Merlin's costume is not detected
+
+For a long time, a wrong Merlin image was part of FGA. It was corrected in #1474.
+
+If you see a colored image in your Support/Merlin folder, you need to correct the image:
+
+1. Install latest canary
+2. Delete merlin_c.png in your Merlin support folder
+3. Go to FGA's `More Options` -> `Storage` and choose `Extract Default Support Images`
+4. Stop FGA's accessibility service
+5. Force close FGA and clear its cache
+6. Restart FGA
+
+After that, Merlin's costume should be detected.
