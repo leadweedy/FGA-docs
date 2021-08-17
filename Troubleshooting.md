@@ -62,7 +62,7 @@ Bottom-left corner is ideal. While you can drag the button around to other place
 
 ## Merlin's costume is not detected
 
-For a long time, a wrong Merlin image was part of FGA. It was corrected in #1474.
+For a long time, a wrong Merlin image was part of FGA. It was corrected in version 1474.
 
 If you see a colored image in your Support/Merlin folder, you need to correct the image:
 
