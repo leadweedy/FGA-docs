@@ -46,6 +46,7 @@ Thank you for your support.
 | Michael Allen                   | $ 20.00 AUD |
 | Billy Jaya                      | $ 20.00 USD |
 | Lê Trung Quân Lê Trung Quân     | $ 3.00 USD  |
-| Thinh Ha | $ 10.00 USD |
+| Thinh Ha                        | $ 10.00 USD |
+| Vincent Tam                     | $ 10.00 USD |
 
 Some of these donations might have been intended towards my other project which is no longer maintained.
