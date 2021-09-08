@@ -1,9 +1,9 @@
 ## Step 1
-Force-stop FGA or restart your phone and see if that works.
+Force-stop FGA or restart your phone and see if that works.  
 This is a quick-fix for battery optimization issues.
 
 ## Other screen recorders
-Don't use other screen recorders with FGA, if you do, force-stop FGA if it doesn't work properly.
+Don't use other screen recorders with FGA, if you do, force-stop FGA if it doesn't work properly.  
 When recording for bug-reports for FGA, use the inbuilt recorder from `More options/Advanced/Record screen`.
 
 ## PlayStore?
