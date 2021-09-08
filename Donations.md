@@ -39,8 +39,6 @@ Thank you for your support.
 | 严​明                             | $ 10.00 USD |
 | Jürgen Blume                    | € 55.55 EUR  |
 | Ibrahim Jadoon                  | $ 15.00 USD |
-| Thomas Michalak                 | € 10.00 EUR (for Captura)  |
-| Milan Sinzig                    | € 5.00 EUR (for Captura) |
 | Meemoo .                        | $ 10.00 USD |
 | Frederic Baudoin                | $ 5.00 USD  |
 | Michael Allen                   | $ 20.00 AUD |
@@ -49,5 +47,3 @@ Thank you for your support.
 | Thinh Ha                        | $ 10.00 USD |
 | Vincent Tam                     | $ 10.00 USD |
 | ---                             | $ 57.25 USD |
-
-Some of these donations might have been intended towards my other project which is no longer maintained.
