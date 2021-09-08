@@ -1,3 +1,10 @@
+## Step 1
+Force-stop FGA or restart your phone and see if that works.
+This is a quick-fix for battery optimization issues.
+
+## Other screen recorders
+Don't use other screen recorders with FGA, if you do, force-stop FGA if it doesn't work properly.
+
 ## PlayStore?
 No more ([#616](https://github.com/Fate-Grand-Automata/FGA/issues/616)).
 Download it from [here](https://github.com/Fate-Grand-Automata/FGA/releases)
