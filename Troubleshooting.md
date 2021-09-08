@@ -6,14 +6,14 @@ Download it from [here](https://github.com/Fate-Grand-Automata/FGA/releases)
 Android 7 or above needed.  
 The latest version of Nox doesn't work.
 
-## Where's 'Script Mode'?
+## Where's 'Script Mode', Lottery, FP, Support Image Maker?
 The app automatically detects which script can be run on the current screen.  
 It will show the relevant option when you click on the PLAY button.
 
 ## Where's the PLAY button?
 The PLAY button only appears when you switch your phone to horizontal mode, for example when you start FGO. If it still doesn't appear you can try a combination of stopping and starting accessibility and force-closing FGA until it appears.
 
-If the button disappears over night or when you lock your screen, then battery optimization is at fault. See [#314](https://github.com/Fate-Grand-Automata/FGA/issues/314).
+If the button disappears overnight or when you lock your screen, then battery optimization is at fault. See [#314](https://github.com/Fate-Grand-Automata/FGA/issues/314).
 
 ## Having trouble on Emulators?
 
@@ -24,7 +24,9 @@ See [Running on Emulators](Running-on-Emulators)
 If you're having trouble, this is mostly related.
 See [Game Area detection](Game-Area-detection)
 
-## Can't start scripts (Mostly LG/Samsung phones)?
+## Clicking on PLAY doesn't open the popup to start scripts?
+Game booster/Game mode or other app blocking notifications/popups when a game (FGO) is running.
+Turn them OFF. Known to happen on some LG, Samsung and Motorola.
 
 For LG:
 Turn OFF Game Tools since it has the feature to prevent ALERTS from showing up.  
