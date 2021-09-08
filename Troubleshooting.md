@@ -8,7 +8,8 @@ The latest version of Nox doesn't work.
 
 ## Where's 'Script Mode', Lottery, FP, Support Image Maker?
 The app automatically detects which script can be run on the current screen.  
-It will show the relevant option when you click on the PLAY button.
+It will show the relevant option when you click on the PLAY button.  
+Support Image Maker shows up as a button on the bottom-left corner of the popup if you click on the PLAY button on the support screen.
 
 ## Where's the PLAY button?
 The PLAY button only appears when you switch your phone to horizontal mode, for example when you start FGO. If it still doesn't appear you can try a combination of stopping and starting accessibility and force-closing FGA until it appears.
