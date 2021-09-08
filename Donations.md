@@ -48,5 +48,6 @@ Thank you for your support.
 | Lê Trung Quân Lê Trung Quân     | $ 3.00 USD  |
 | Thinh Ha                        | $ 10.00 USD |
 | Vincent Tam                     | $ 10.00 USD |
+| ---                             | $ 57.25 USD |
 
 Some of these donations might have been intended towards my other project which is no longer maintained.
