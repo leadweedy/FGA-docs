@@ -47,4 +47,6 @@ Thank you for your support.
 | Thinh Ha                        | $ 10.00 USD |
 | Vincent Tam                     | $ 10.00 USD |
 | ---                             | $ 57.25 USD |
-| itscakebuffet | $ 50.00 USD     |
+| itscakebuffet                   | $ 50.00 USD |
+| Trung                           | $ 3.00 USD  |
+| ---                             | $ 10.00 USD |
