@@ -50,3 +50,4 @@ Thank you for your support.
 | itscakebuffet                   | $ 50.00 USD |
 | Trung                           | $ 3.00 USD  |
 | ---                             | $ 10.00 USD |
+Rafael Stolarczyk | $ 11.12 USD
