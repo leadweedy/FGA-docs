@@ -34,7 +34,7 @@ Thank you for your support.
 | 赫 王                           | $ 1.00 USD   |
 | SHENKAI                         | $ 1.11 USD   |
 | 严​明                             | $ 10.00 USD |
-| Jürgen Blume                    | € 55.55 EUR  |
+| Jürgen Blume                    | € 55.55 EUR |
 | Ibrahim Jadoon                  | $ 15.00 USD |
 | Meemoo .                        | $ 10.00 USD |
 | Frederic Baudoin                | $ 5.00 USD  |
@@ -47,4 +47,9 @@ Thank you for your support.
 | itscakebuffet                   | $ 50.00 USD |
 | Trung                           | $ 3.00 USD  |
 | ---                             | $ 10.00 USD |
-Rafael Stolarczyk | $ 11.12 USD
+| Rafael Stolarczyk               | $ 11.12 USD |
+| Junhao Zhu                      | $ 5.45 USD  |
+| Cipher                          | $ 4.00 USD  |
+| Kenneth Burcham                 | $ 10.00 USD |
+| ---                             | $ 50.00 USD |
+| Javier Alejandro Bahena Nuñez   | $ 4.57 USD |
