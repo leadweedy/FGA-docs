@@ -1,11 +1,11 @@
 ## How FGO should look with wide-screen update
 
-**JP, KR:** Should fill the entire screen including the notch.  
+**JP, KR, NA:** Should fill the entire screen including the notch.    
 **CN:** Turn ON `More options/Advanced/Ignore notch calculation` if FGO doesn't leave the notch area black.
 
 There should be no black bars on the screen. If there are, switch your phone from Gesture Navigation to 3-button navigation.
 
-## How FGO should look
+## How FGO should look on TW
 
 For FGA to work, FGO should be centered on your phone's screen excluding notch (hole on screen for front camera)
 
