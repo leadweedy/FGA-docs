@@ -90,3 +90,11 @@ If you see a colored image in your Support/Merlin folder, you need to correct th
 6. Restart FGA
 
 After that, Merlin's costume should be detected.
+
+## Why is FGA opening Servant details at the start of the battle?
+
+That's an intended feature for detecting which face cards belong to which Servant.
+
+Every time a new Servant enters the field, FGA will also open up their details to take a screenshot of their face.
+
+It can be disabled in `More Options`, but you won't be able to use several features relying on face card matching.
